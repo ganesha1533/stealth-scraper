@@ -37,7 +37,7 @@ Stealth Scraper é um framework Python para web scraping que simula comportament
 ## 🚀 Instalação
 
 ```bash
-git clone https://github.com/vangoghdev/stealth-scraper.git
+git clone https://github.com/ganesha1533/stealth-scraper.git
 cd stealth-scraper
 pip install -r requirements.txt
 ```
@@ -183,7 +183,7 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 
 ### 🎨 Desenvolvido por **VanGogh Dev**
 
-[![GitHub](https://img.shields.io/badge/GitHub-VanGoghDev-black?style=flat&logo=github)](https://github.com/vangoghdev)
+[![GitHub](https://img.shields.io/badge/GitHub-ganesha1533-black?style=flat&logo=github)](https://github.com/ganesha1533)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+595%20987%20352983-25D366?style=flat&logo=whatsapp)](https://wa.me/595987352983)
 
 **☕ Me apoie:**
