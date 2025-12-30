@@ -192,3 +192,4 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 [![Donate](https://img.shields.io/badge/Donate-PIX%2FOther-green?style=flat)](https://vendas.snoopintelligence.space/#donate)
 
 </div>
+
